@@ -1,4 +1,4 @@
 # StopGame
 
-This library have methods for parsing articles.
+This bot have methods for parsing articles.
 
