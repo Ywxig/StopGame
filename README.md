@@ -1,2 +1,4 @@
 # StopGame
-Bot for parsing sait Stopgame
+
+This library have methods for parsing articles.
+
